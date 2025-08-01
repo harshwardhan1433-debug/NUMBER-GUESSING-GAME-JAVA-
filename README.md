@@ -55,21 +55,6 @@ NUMBER TOO HIGH
 YOUR GUESS : 61
 🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.```
 
-
-
-
-👨‍💻 Author
+```
+👤 made by
 Harsh Wardhan
-    
-
-
-
-
-
-
-
-
-
-
-
-
