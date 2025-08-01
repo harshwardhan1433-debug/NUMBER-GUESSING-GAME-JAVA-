@@ -56,5 +56,7 @@ YOUR GUESS : 61
 🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.```
 
 ```
-👤 made by
+##👤 made by
 Harsh Wardhan
+##📬 Feedback
+If you like this project, feel free to ⭐ star it, fork it, or suggest improvements!
