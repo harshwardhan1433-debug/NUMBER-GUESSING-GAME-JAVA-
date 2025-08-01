@@ -30,22 +30,15 @@ You can choose your difficulty level and try to guess the randomly generated num
 1. Clone the repository:
    ```bash
    git clone https://github.com/harshwardhan1433-debug/NumberGuessingGame.git
-Compile the Java file:
+   
+2.Compile the Java file:
 
-bash
-Copy
-Edit
-javac Main.java
-Run the game:
+    javac Main.java
+    
+3.Run the game:
 
-bash
-Copy
-Edit
-java Main
+    java Main
 💡 Sample Output
-yaml
-Copy
-Edit
 WELCOME TO NUMBER GUESSING GAME !
 
 CHOOSE DIFFICULTY LEVEL :
@@ -61,20 +54,10 @@ YOUR GUESS : 72
 NUMBER TOO HIGH
 YOUR GUESS : 61
 🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.
+
 👨‍💻 Author
 Harsh Wardhan
-🔗 GitHub
-
-📬 Feedback
-If you like this project, feel free to ⭐ star it, fork it, or suggest improvements!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know once you post it — I can also help you craft the **LinkedIn caption or short video script** for showcasing it! 🚀
+    
 
 
 
@@ -83,7 +66,7 @@ Let me know once you post it — I can also help you craft the **LinkedIn captio
 
 
 
-Ask ChatGPT
+
 
 
 
