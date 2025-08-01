@@ -38,8 +38,8 @@ You can choose your difficulty level and try to guess the randomly generated num
 3.Run the game:
 
     java Main
- ##💡 Sample Output
--```WELCOME TO NUMBER GUESSING GAME !
+## 💡 Sample Output
+```WELCOME TO NUMBER GUESSING GAME !
 
 CHOOSE DIFFICULTY LEVEL :
 1. EASY (1-50)
@@ -53,7 +53,7 @@ NUMBER TOO LOW
 YOUR GUESS : 72
 NUMBER TOO HIGH
 YOUR GUESS : 61
-🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.-```
+🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.```
 
 
 
