@@ -3,32 +3,29 @@
 # 🎯 Number Guessing Game - Java Console App
 
 This is a simple and fun number guessing game built using Java.  
-You choose a difficulty level, and then try to guess the randomly generated number with hints given after each attempt.
+You can choose your difficulty level and try to guess the randomly generated number with hints given after each attempt.
 
 ---
 
-## 🕹️ Features
+## 🧩 Features
 
-- 🔢 Random number guessing with 3 difficulty levels:
+- 🔢 Difficulty levels:
   - Easy (1–50)
   - Medium (1–100)
   - Hard (1–200)
-- 🎯 Get hints if your guess is too high or too low
-- 🏆 Best score tracking (fewest attempts)
+- 🎯 Hints: "Too high" or "Too low"
+- 🏆 Best score tracker (fewest attempts)
 - 🔁 Option to play again
-- ✅ Input validation for smooth gameplay
+- ❌ Input validation for smooth gameplay
 
 ---
 
-## 📦 How to Run
+## 🚀 How to Run
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/NumberGuessingGame.git
-
-2.Compile the Java file:
-javac Main.java
-
+   git clone https://github.com/harshwardhan1433-debug/NumberGuessingGame.git
+   
 3. run the game: 
 
 
