@@ -26,7 +26,16 @@ You can choose your difficulty level and try to guess the randomly generated num
    ```bash
    git clone https://github.com/harshwardhan1433-debug/NumberGuessingGame.git
    
-3. run the game: 
+2.Compile the Java file:
+   ```bash
+    javac Main.java
+
+ 
+3.Run the game:
+   ```bash
+     java Main
+
+
 
 
 
