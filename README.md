@@ -25,3 +25,17 @@ You choose a difficulty level, and then try to guess the randomly generated numb
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/YOUR-USERNAME/NumberGuessingGame.git
+
+Compile the Java file:
+
+bash
+Copy
+Edit
+javac Main.java
+Run the game:
+
+bash
+Copy
+Edit
+java Main
+   
