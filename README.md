@@ -38,7 +38,7 @@ You can choose your difficulty level and try to guess the randomly generated num
 3.Run the game:
 
     java Main
----    
+ 
 WELCOME TO NUMBER GUESSING GAME !
 
 CHOOSE DIFFICULTY LEVEL :
@@ -54,7 +54,7 @@ YOUR GUESS : 72
 NUMBER TOO HIGH
 YOUR GUESS : 61
 🎉 CORRECT! YOU GUESSED NUMBER IN 3 ATTEMPTS.
----
+
 
 
 
