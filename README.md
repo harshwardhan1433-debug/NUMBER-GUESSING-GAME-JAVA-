@@ -31,9 +31,7 @@ You can choose your difficulty level and try to guess the randomly generated num
     javac Main.java
 
  
-3.Run the game:
-   ```bash
-     java Main
+                         
 
 
 
