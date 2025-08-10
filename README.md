@@ -27,7 +27,7 @@ You can choose your difficulty level and try to guess the randomly generated num
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshwardhan1433-debug/NumberGuessingGame.git
+   https://github.com/harshwardhan1433-debug/NUMBER-GUESSING-GAME-JAVA-
    
 2.Compile the Java file:
 
